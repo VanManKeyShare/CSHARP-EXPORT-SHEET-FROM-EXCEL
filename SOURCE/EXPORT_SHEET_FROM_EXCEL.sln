@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXPORT_SHEET_FROM_EXCEL", "EXPORT_SHEET_FROM_EXCEL.csproj", "{374ED3C9-5A55-494C-908A-9D505F28DEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374ED3C9-5A55-494C-908A-9D505F28DEDC}.Debug|x86.ActiveCfg = Debug|x86
+		{374ED3C9-5A55-494C-908A-9D505F28DEDC}.Debug|x86.Build.0 = Debug|x86
+		{374ED3C9-5A55-494C-908A-9D505F28DEDC}.Release|x86.ActiveCfg = Release|x86
+		{374ED3C9-5A55-494C-908A-9D505F28DEDC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
